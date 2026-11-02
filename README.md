@@ -86,3 +86,6 @@ The robot followed all four spoken commands (go forward, turn left, turn right, 
 - `command_node.py`, `speech_node.py`: the two ROS 2 nodes
 - `setup.py`, `package.xml`: package files
 - Screenshots of the simulation and the ROS node graph
+<img width="837" height="532" alt="Screenshot from 2026-11-02 17-26-39" src="https://github.com/user-attachments/assets/e95f0239-f417-4190-8c6c-1c29408f5909" />
+<img width="799" height="550" alt="Screenshot from 2026-11-02 17-26-57" src="https://github.com/user-attachments/assets/f7b39efb-af43-4290-b629-3b18d69cd1de" />
+<img width="1327" height="912" alt="Screenshot from 2026-11-02 15-30-21" src="https://github.com/user-attachments/assets/353a4e77-fc58-4cab-baac-73063e28fb2f" />
