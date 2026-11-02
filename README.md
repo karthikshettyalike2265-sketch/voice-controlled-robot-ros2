@@ -5,7 +5,7 @@ Offline voice-controlled TurtleBot3 in Gazebo using ROS 2 Humble and Vosk speech
 
 A simulated TurtleBot3 that follows spoken commands. Audio is converted to text offline using Vosk, and the text is turned into movement commands in ROS 2.
 
-Demo video:[Screencast from 11-02-2026 05:29:33 PM.webm](https://github.com/user-attachments/assets/c5a11f02-6147-4fb3-bd46-717dd83f6f4f)
+Demo video:[simulation video.webm](https://github.com/user-attachments/assets/c5a11f02-6147-4fb3-bd46-717dd83f6f4f)
 
 ## How it works
 
